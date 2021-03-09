@@ -1,0 +1,3913 @@
+{
+  "scope": "source.clojure",
+  "completions": [
+    {
+      "trigger": "*",
+      "contents": "*",
+      "kind": "function",
+      "details": "<code>[] [x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "*'",
+      "contents": "*'",
+      "kind": "function",
+      "details": "<code>[] [x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "*1",
+      "contents": "*1",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*2",
+      "contents": "*2",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*3",
+      "contents": "*3",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*agent*",
+      "contents": "*agent*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*allow-unresolved-vars*",
+      "contents": "*allow-unresolved-vars*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*assert*",
+      "contents": "*assert*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*clojure-version*",
+      "contents": "*clojure-version*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*command-line-args*",
+      "contents": "*command-line-args*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*compile-files*",
+      "contents": "*compile-files*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*compile-path*",
+      "contents": "*compile-path*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*compiler-options*",
+      "contents": "*compiler-options*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*data-readers*",
+      "contents": "*data-readers*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*default-data-reader-fn*",
+      "contents": "*default-data-reader-fn*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*e",
+      "contents": "*e",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*err*",
+      "contents": "*err*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*file*",
+      "contents": "*file*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*flush-on-newline*",
+      "contents": "*flush-on-newline*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*fn-loader*",
+      "contents": "*fn-loader*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*in*",
+      "contents": "*in*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*math-context*",
+      "contents": "*math-context*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*ns*",
+      "contents": "*ns*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*out*",
+      "contents": "*out*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*print-dup*",
+      "contents": "*print-dup*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*print-length*",
+      "contents": "*print-length*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*print-level*",
+      "contents": "*print-level*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*print-meta*",
+      "contents": "*print-meta*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*print-namespace-maps*",
+      "contents": "*print-namespace-maps*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*print-readably*",
+      "contents": "*print-readably*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*read-eval*",
+      "contents": "*read-eval*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*reader-resolver*",
+      "contents": "*reader-resolver*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*source-path*",
+      "contents": "*source-path*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*suppress-read*",
+      "contents": "*suppress-read*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*unchecked-math*",
+      "contents": "*unchecked-math*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*use-context-classloader*",
+      "contents": "*use-context-classloader*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*verbose-defrecords*",
+      "contents": "*verbose-defrecords*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "*warn-on-reflection*",
+      "contents": "*warn-on-reflection*",
+      "kind": "variable"
+    },
+    {
+      "trigger": "+",
+      "contents": "+",
+      "kind": "function",
+      "details": "<code>[] [x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "+'",
+      "contents": "+'",
+      "kind": "function",
+      "details": "<code>[] [x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "-",
+      "contents": "-",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "-'",
+      "contents": "-'",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "->",
+      "contents": "->",
+      "kind": "function",
+      "details": "<code>[x & forms]<\/code>"
+    },
+    {
+      "trigger": "->>",
+      "contents": "->>",
+      "kind": "function",
+      "details": "<code>[x & forms]<\/code>"
+    },
+    {
+      "trigger": "->ArrayChunk",
+      "contents": "->ArrayChunk",
+      "kind": "function",
+      "details": "<code>[am arr off end]<\/code>"
+    },
+    {
+      "trigger": "->Eduction",
+      "contents": "->Eduction",
+      "kind": "function",
+      "details": "<code>[xform coll]<\/code>"
+    },
+    {
+      "trigger": "->Vec",
+      "contents": "->Vec",
+      "kind": "function",
+      "details": "<code>[am cnt shift root tail _meta]<\/code>"
+    },
+    {
+      "trigger": "->VecNode",
+      "contents": "->VecNode",
+      "kind": "function",
+      "details": "<code>[edit arr]<\/code>"
+    },
+    {
+      "trigger": "->VecSeq",
+      "contents": "->VecSeq",
+      "kind": "function",
+      "details": "<code>[am vec anode i offset]<\/code>"
+    },
+    {
+      "trigger": "-cache-protocol-fn",
+      "contents": "-cache-protocol-fn",
+      "kind": "function",
+      "details": "<code>[pf x c interf]<\/code>"
+    },
+    {
+      "trigger": "-reset-methods",
+      "contents": "-reset-methods",
+      "kind": "function",
+      "details": "<code>[protocol]<\/code>"
+    },
+    {
+      "trigger": "..",
+      "contents": "..",
+      "kind": "function",
+      "details": "<code>[x form] [x form & more]<\/code>"
+    },
+    {
+      "trigger": "\/",
+      "contents": "\/",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "<",
+      "contents": "<",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "<=",
+      "contents": "<=",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "=",
+      "contents": "=",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "==",
+      "contents": "==",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": ">",
+      "contents": ">",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": ">=",
+      "contents": ">=",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "EMPTY-NODE",
+      "contents": "EMPTY-NODE",
+      "kind": "variable"
+    },
+    {
+      "trigger": "Inst",
+      "contents": "Inst",
+      "kind": "variable"
+    },
+    {
+      "trigger": "PrintWriter-on",
+      "contents": "PrintWriter-on",
+      "kind": "function",
+      "details": "<code>[flush-fn close-fn]<\/code>"
+    },
+    {
+      "trigger": "StackTraceElement->vec",
+      "contents": "StackTraceElement->vec",
+      "kind": "function",
+      "details": "<code>[o]<\/code>"
+    },
+    {
+      "trigger": "Throwable->map",
+      "contents": "Throwable->map",
+      "kind": "function",
+      "details": "<code>[o]<\/code>"
+    },
+    {
+      "trigger": "accessor",
+      "contents": "accessor",
+      "kind": "function",
+      "details": "<code>[s key]<\/code>"
+    },
+    {
+      "trigger": "aclone",
+      "contents": "aclone",
+      "kind": "function",
+      "details": "<code>[array]<\/code>"
+    },
+    {
+      "trigger": "add-classpath",
+      "contents": "add-classpath",
+      "kind": "function",
+      "details": "<code>[url]<\/code>"
+    },
+    {
+      "trigger": "add-tap",
+      "contents": "add-tap",
+      "kind": "function",
+      "details": "<code>[f]<\/code>"
+    },
+    {
+      "trigger": "add-watch",
+      "contents": "add-watch",
+      "kind": "function",
+      "details": "<code>[reference key fn]<\/code>"
+    },
+    {
+      "trigger": "agent",
+      "contents": "agent",
+      "kind": "function",
+      "details": "<code>[state & options]<\/code>"
+    },
+    {
+      "trigger": "agent-error",
+      "contents": "agent-error",
+      "kind": "function",
+      "details": "<code>[a]<\/code>"
+    },
+    {
+      "trigger": "agent-errors",
+      "contents": "agent-errors",
+      "kind": "function",
+      "details": "<code>[a]<\/code>"
+    },
+    {
+      "trigger": "aget",
+      "contents": "aget",
+      "kind": "function",
+      "details": "<code>[array idx] [array idx & idxs]<\/code>"
+    },
+    {
+      "trigger": "alength",
+      "contents": "alength",
+      "kind": "function",
+      "details": "<code>[array]<\/code>"
+    },
+    {
+      "trigger": "alias",
+      "contents": "alias",
+      "kind": "function",
+      "details": "<code>[alias namespace-sym]<\/code>"
+    },
+    {
+      "trigger": "all-ns",
+      "contents": "all-ns",
+      "kind": "function",
+      "details": "<code>[]<\/code>"
+    },
+    {
+      "trigger": "alter",
+      "contents": "alter",
+      "kind": "function",
+      "details": "<code>[ref fun & args]<\/code>"
+    },
+    {
+      "trigger": "alter-meta!",
+      "contents": "alter-meta!",
+      "kind": "function",
+      "details": "<code>[iref f & args]<\/code>"
+    },
+    {
+      "trigger": "alter-var-root",
+      "contents": "alter-var-root",
+      "kind": "function",
+      "details": "<code>[v f & args]<\/code>"
+    },
+    {
+      "trigger": "amap",
+      "contents": "amap",
+      "kind": "function",
+      "details": "<code>[a idx ret expr]<\/code>"
+    },
+    {
+      "trigger": "ancestors",
+      "contents": "ancestors",
+      "kind": "function",
+      "details": "<code>[tag] [h tag]<\/code>"
+    },
+    {
+      "trigger": "and",
+      "contents": "and",
+      "kind": "function",
+      "details": "<code>[] [x] [x & next]<\/code>"
+    },
+    {
+      "trigger": "any?",
+      "contents": "any?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "apply",
+      "contents": "apply",
+      "kind": "function",
+      "details": "<code>[f args] [f x args] [f x y args] [f x y z args] [f a b c d & args]<\/code>"
+    },
+    {
+      "trigger": "areduce",
+      "contents": "areduce",
+      "kind": "function",
+      "details": "<code>[a idx ret init expr]<\/code>"
+    },
+    {
+      "trigger": "array-map",
+      "contents": "array-map",
+      "kind": "function",
+      "details": "<code>[] [& keyvals]<\/code>"
+    },
+    {
+      "trigger": "as->",
+      "contents": "as->",
+      "kind": "function",
+      "details": "<code>[expr name & forms]<\/code>"
+    },
+    {
+      "trigger": "aset",
+      "contents": "aset",
+      "kind": "function",
+      "details": "<code>[array idx val] [array idx idx2 & idxv]<\/code>"
+    },
+    {
+      "trigger": "aset-boolean",
+      "contents": "aset-boolean",
+      "kind": "function",
+      "details": "<code>[array idx val] [array idx idx2 & idxv]<\/code>"
+    },
+    {
+      "trigger": "aset-byte",
+      "contents": "aset-byte",
+      "kind": "function",
+      "details": "<code>[array idx val] [array idx idx2 & idxv]<\/code>"
+    },
+    {
+      "trigger": "aset-char",
+      "contents": "aset-char",
+      "kind": "function",
+      "details": "<code>[array idx val] [array idx idx2 & idxv]<\/code>"
+    },
+    {
+      "trigger": "aset-double",
+      "contents": "aset-double",
+      "kind": "function",
+      "details": "<code>[array idx val] [array idx idx2 & idxv]<\/code>"
+    },
+    {
+      "trigger": "aset-float",
+      "contents": "aset-float",
+      "kind": "function",
+      "details": "<code>[array idx val] [array idx idx2 & idxv]<\/code>"
+    },
+    {
+      "trigger": "aset-int",
+      "contents": "aset-int",
+      "kind": "function",
+      "details": "<code>[array idx val] [array idx idx2 & idxv]<\/code>"
+    },
+    {
+      "trigger": "aset-long",
+      "contents": "aset-long",
+      "kind": "function",
+      "details": "<code>[array idx val] [array idx idx2 & idxv]<\/code>"
+    },
+    {
+      "trigger": "aset-short",
+      "contents": "aset-short",
+      "kind": "function",
+      "details": "<code>[array idx val] [array idx idx2 & idxv]<\/code>"
+    },
+    {
+      "trigger": "assert",
+      "contents": "assert",
+      "kind": "function",
+      "details": "<code>[x] [x message]<\/code>"
+    },
+    {
+      "trigger": "assoc",
+      "contents": "assoc",
+      "kind": "function",
+      "details": "<code>[map key val] [map key val & kvs]<\/code>"
+    },
+    {
+      "trigger": "assoc!",
+      "contents": "assoc!",
+      "kind": "function",
+      "details": "<code>[coll key val] [coll key val & kvs]<\/code>"
+    },
+    {
+      "trigger": "assoc-in",
+      "contents": "assoc-in",
+      "kind": "function",
+      "details": "<code>[m [k & ks] v]<\/code>"
+    },
+    {
+      "trigger": "associative?",
+      "contents": "associative?",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "atom",
+      "contents": "atom",
+      "kind": "function",
+      "details": "<code>[x] [x & options]<\/code>"
+    },
+    {
+      "trigger": "await",
+      "contents": "await",
+      "kind": "function",
+      "details": "<code>[& agents]<\/code>"
+    },
+    {
+      "trigger": "await-for",
+      "contents": "await-for",
+      "kind": "function",
+      "details": "<code>[timeout-ms & agents]<\/code>"
+    },
+    {
+      "trigger": "await1",
+      "contents": "await1",
+      "kind": "function",
+      "details": "<code>[a]<\/code>"
+    },
+    {
+      "trigger": "bases",
+      "contents": "bases",
+      "kind": "function",
+      "details": "<code>[c]<\/code>"
+    },
+    {
+      "trigger": "bean",
+      "contents": "bean",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "bigdec",
+      "contents": "bigdec",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "bigint",
+      "contents": "bigint",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "biginteger",
+      "contents": "biginteger",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "binding",
+      "contents": "binding",
+      "kind": "function",
+      "details": "<code>[bindings & body]<\/code>"
+    },
+    {
+      "trigger": "bit-and",
+      "contents": "bit-and",
+      "kind": "function",
+      "details": "<code>[x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "bit-and-not",
+      "contents": "bit-and-not",
+      "kind": "function",
+      "details": "<code>[x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "bit-clear",
+      "contents": "bit-clear",
+      "kind": "function",
+      "details": "<code>[x n]<\/code>"
+    },
+    {
+      "trigger": "bit-flip",
+      "contents": "bit-flip",
+      "kind": "function",
+      "details": "<code>[x n]<\/code>"
+    },
+    {
+      "trigger": "bit-not",
+      "contents": "bit-not",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "bit-or",
+      "contents": "bit-or",
+      "kind": "function",
+      "details": "<code>[x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "bit-set",
+      "contents": "bit-set",
+      "kind": "function",
+      "details": "<code>[x n]<\/code>"
+    },
+    {
+      "trigger": "bit-shift-left",
+      "contents": "bit-shift-left",
+      "kind": "function",
+      "details": "<code>[x n]<\/code>"
+    },
+    {
+      "trigger": "bit-shift-right",
+      "contents": "bit-shift-right",
+      "kind": "function",
+      "details": "<code>[x n]<\/code>"
+    },
+    {
+      "trigger": "bit-test",
+      "contents": "bit-test",
+      "kind": "function",
+      "details": "<code>[x n]<\/code>"
+    },
+    {
+      "trigger": "bit-xor",
+      "contents": "bit-xor",
+      "kind": "function",
+      "details": "<code>[x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "boolean",
+      "contents": "boolean",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "boolean-array",
+      "contents": "boolean-array",
+      "kind": "function",
+      "details": "<code>[size-or-seq] [size init-val-or-seq]<\/code>"
+    },
+    {
+      "trigger": "boolean?",
+      "contents": "boolean?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "booleans",
+      "contents": "booleans",
+      "kind": "function",
+      "details": "<code>[xs]<\/code>"
+    },
+    {
+      "trigger": "bound-fn",
+      "contents": "bound-fn",
+      "kind": "function",
+      "details": "<code>[& fntail]<\/code>"
+    },
+    {
+      "trigger": "bound-fn*",
+      "contents": "bound-fn*",
+      "kind": "function",
+      "details": "<code>[f]<\/code>"
+    },
+    {
+      "trigger": "bound?",
+      "contents": "bound?",
+      "kind": "function",
+      "details": "<code>[& vars]<\/code>"
+    },
+    {
+      "trigger": "bounded-count",
+      "contents": "bounded-count",
+      "kind": "function",
+      "details": "<code>[n coll]<\/code>"
+    },
+    {
+      "trigger": "butlast",
+      "contents": "butlast",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "byte",
+      "contents": "byte",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "byte-array",
+      "contents": "byte-array",
+      "kind": "function",
+      "details": "<code>[size-or-seq] [size init-val-or-seq]<\/code>"
+    },
+    {
+      "trigger": "bytes",
+      "contents": "bytes",
+      "kind": "function",
+      "details": "<code>[xs]<\/code>"
+    },
+    {
+      "trigger": "bytes?",
+      "contents": "bytes?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "case",
+      "contents": "case",
+      "kind": "function",
+      "details": "<code>[e & clauses]<\/code>"
+    },
+    {
+      "trigger": "cast",
+      "contents": "cast",
+      "kind": "function",
+      "details": "<code>[c x]<\/code>"
+    },
+    {
+      "trigger": "cat",
+      "contents": "cat",
+      "kind": "function",
+      "details": "<code>[rf]<\/code>"
+    },
+    {
+      "trigger": "char",
+      "contents": "char",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "char-array",
+      "contents": "char-array",
+      "kind": "function",
+      "details": "<code>[size-or-seq] [size init-val-or-seq]<\/code>"
+    },
+    {
+      "trigger": "char-escape-string",
+      "contents": "char-escape-string",
+      "kind": "variable"
+    },
+    {
+      "trigger": "char-name-string",
+      "contents": "char-name-string",
+      "kind": "variable"
+    },
+    {
+      "trigger": "char?",
+      "contents": "char?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "chars",
+      "contents": "chars",
+      "kind": "function",
+      "details": "<code>[xs]<\/code>"
+    },
+    {
+      "trigger": "chunk",
+      "contents": "chunk",
+      "kind": "function",
+      "details": "<code>[b]<\/code>"
+    },
+    {
+      "trigger": "chunk-append",
+      "contents": "chunk-append",
+      "kind": "function",
+      "details": "<code>[b x]<\/code>"
+    },
+    {
+      "trigger": "chunk-buffer",
+      "contents": "chunk-buffer",
+      "kind": "function",
+      "details": "<code>[capacity]<\/code>"
+    },
+    {
+      "trigger": "chunk-cons",
+      "contents": "chunk-cons",
+      "kind": "function",
+      "details": "<code>[chunk rest]<\/code>"
+    },
+    {
+      "trigger": "chunk-first",
+      "contents": "chunk-first",
+      "kind": "function",
+      "details": "<code>[s]<\/code>"
+    },
+    {
+      "trigger": "chunk-next",
+      "contents": "chunk-next",
+      "kind": "function",
+      "details": "<code>[s]<\/code>"
+    },
+    {
+      "trigger": "chunk-rest",
+      "contents": "chunk-rest",
+      "kind": "function",
+      "details": "<code>[s]<\/code>"
+    },
+    {
+      "trigger": "chunked-seq?",
+      "contents": "chunked-seq?",
+      "kind": "function",
+      "details": "<code>[s]<\/code>"
+    },
+    {
+      "trigger": "class",
+      "contents": "class",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "class?",
+      "contents": "class?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "clear-agent-errors",
+      "contents": "clear-agent-errors",
+      "kind": "function",
+      "details": "<code>[a]<\/code>"
+    },
+    {
+      "trigger": "clojure-version",
+      "contents": "clojure-version",
+      "kind": "function",
+      "details": "<code>[]<\/code>"
+    },
+    {
+      "trigger": "coll?",
+      "contents": "coll?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "comment",
+      "contents": "comment",
+      "kind": "function",
+      "details": "<code>[& body]<\/code>"
+    },
+    {
+      "trigger": "commute",
+      "contents": "commute",
+      "kind": "function",
+      "details": "<code>[ref fun & args]<\/code>"
+    },
+    {
+      "trigger": "comp",
+      "contents": "comp",
+      "kind": "function",
+      "details": "<code>[] [f] [f g] [f g & fs]<\/code>"
+    },
+    {
+      "trigger": "comparator",
+      "contents": "comparator",
+      "kind": "function",
+      "details": "<code>[pred]<\/code>"
+    },
+    {
+      "trigger": "compare",
+      "contents": "compare",
+      "kind": "function",
+      "details": "<code>[x y]<\/code>"
+    },
+    {
+      "trigger": "compare-and-set!",
+      "contents": "compare-and-set!",
+      "kind": "function",
+      "details": "<code>[atom oldval newval]<\/code>"
+    },
+    {
+      "trigger": "compile",
+      "contents": "compile",
+      "kind": "function",
+      "details": "<code>[lib]<\/code>"
+    },
+    {
+      "trigger": "complement",
+      "contents": "complement",
+      "kind": "function",
+      "details": "<code>[f]<\/code>"
+    },
+    {
+      "trigger": "completing",
+      "contents": "completing",
+      "kind": "function",
+      "details": "<code>[f] [f cf]<\/code>"
+    },
+    {
+      "trigger": "concat",
+      "contents": "concat",
+      "kind": "function",
+      "details": "<code>[] [x] [x y] [x y & zs]<\/code>"
+    },
+    {
+      "trigger": "cond",
+      "contents": "cond",
+      "kind": "function",
+      "details": "<code>[& clauses]<\/code>"
+    },
+    {
+      "trigger": "cond->",
+      "contents": "cond->",
+      "kind": "function",
+      "details": "<code>[expr & clauses]<\/code>"
+    },
+    {
+      "trigger": "cond->>",
+      "contents": "cond->>",
+      "kind": "function",
+      "details": "<code>[expr & clauses]<\/code>"
+    },
+    {
+      "trigger": "condp",
+      "contents": "condp",
+      "kind": "function",
+      "details": "<code>[pred expr & clauses]<\/code>"
+    },
+    {
+      "trigger": "conj",
+      "contents": "conj",
+      "kind": "function",
+      "details": "<code>[coll x] [coll x & xs]<\/code>"
+    },
+    {
+      "trigger": "conj!",
+      "contents": "conj!",
+      "kind": "function",
+      "details": "<code>[] [coll] [coll x]<\/code>"
+    },
+    {
+      "trigger": "cons",
+      "contents": "cons",
+      "kind": "function",
+      "details": "<code>[x seq]<\/code>"
+    },
+    {
+      "trigger": "constantly",
+      "contents": "constantly",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "construct-proxy",
+      "contents": "construct-proxy",
+      "kind": "function",
+      "details": "<code>[c & ctor-args]<\/code>"
+    },
+    {
+      "trigger": "contains?",
+      "contents": "contains?",
+      "kind": "function",
+      "details": "<code>[coll key]<\/code>"
+    },
+    {
+      "trigger": "count",
+      "contents": "count",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "counted?",
+      "contents": "counted?",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "create-ns",
+      "contents": "create-ns",
+      "kind": "function",
+      "details": "<code>[sym]<\/code>"
+    },
+    {
+      "trigger": "create-struct",
+      "contents": "create-struct",
+      "kind": "function",
+      "details": "<code>[& keys]<\/code>"
+    },
+    {
+      "trigger": "cycle",
+      "contents": "cycle",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "dec",
+      "contents": "dec",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "dec'",
+      "contents": "dec'",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "decimal?",
+      "contents": "decimal?",
+      "kind": "function",
+      "details": "<code>[n]<\/code>"
+    },
+    {
+      "trigger": "declare",
+      "contents": "declare",
+      "kind": "function",
+      "details": "<code>[& names]<\/code>"
+    },
+    {
+      "trigger": "dedupe",
+      "contents": "dedupe",
+      "kind": "function",
+      "details": "<code>[] [coll]<\/code>"
+    },
+    {
+      "trigger": "default-data-readers",
+      "contents": "default-data-readers",
+      "kind": "variable"
+    },
+    {
+      "trigger": "definline",
+      "contents": "definline",
+      "kind": "function",
+      "details": "<code>[name & decl]<\/code>"
+    },
+    {
+      "trigger": "definterface",
+      "contents": "definterface",
+      "kind": "function",
+      "details": "<code>[name & sigs]<\/code>"
+    },
+    {
+      "trigger": "defmacro",
+      "contents": "defmacro",
+      "kind": "function",
+      "details": "<code>[name doc-string? attr-map? [params*] body] [name doc-string? attr-map? ([params*] body) + attr-map?]<\/code>"
+    },
+    {
+      "trigger": "defmethod",
+      "contents": "defmethod",
+      "kind": "function",
+      "details": "<code>[multifn dispatch-val & fn-tail]<\/code>"
+    },
+    {
+      "trigger": "defmulti",
+      "contents": "defmulti",
+      "kind": "function",
+      "details": "<code>[name docstring? attr-map? dispatch-fn & options]<\/code>"
+    },
+    {
+      "trigger": "defn",
+      "contents": "defn",
+      "kind": "function",
+      "details": "<code>[name doc-string? attr-map? [params*] prepost-map? body] [name doc-string? attr-map? ([params*] prepost-map? body) + attr-map?]<\/code>"
+    },
+    {
+      "trigger": "defn-",
+      "contents": "defn-",
+      "kind": "function",
+      "details": "<code>[name & decls]<\/code>"
+    },
+    {
+      "trigger": "defonce",
+      "contents": "defonce",
+      "kind": "function",
+      "details": "<code>[name expr]<\/code>"
+    },
+    {
+      "trigger": "defprotocol",
+      "contents": "defprotocol",
+      "kind": "function",
+      "details": "<code>[name & opts+sigs]<\/code>"
+    },
+    {
+      "trigger": "defrecord",
+      "contents": "defrecord",
+      "kind": "function",
+      "details": "<code>[name [& fields] & opts+specs]<\/code>"
+    },
+    {
+      "trigger": "defstruct",
+      "contents": "defstruct",
+      "kind": "function",
+      "details": "<code>[name & keys]<\/code>"
+    },
+    {
+      "trigger": "deftype",
+      "contents": "deftype",
+      "kind": "function",
+      "details": "<code>[name [& fields] & opts+specs]<\/code>"
+    },
+    {
+      "trigger": "delay",
+      "contents": "delay",
+      "kind": "function",
+      "details": "<code>[& body]<\/code>"
+    },
+    {
+      "trigger": "delay?",
+      "contents": "delay?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "deliver",
+      "contents": "deliver",
+      "kind": "function",
+      "details": "<code>[promise val]<\/code>"
+    },
+    {
+      "trigger": "denominator",
+      "contents": "denominator",
+      "kind": "function",
+      "details": "<code>[r]<\/code>"
+    },
+    {
+      "trigger": "deref",
+      "contents": "deref",
+      "kind": "function",
+      "details": "<code>[ref] [ref timeout-ms timeout-val]<\/code>"
+    },
+    {
+      "trigger": "derive",
+      "contents": "derive",
+      "kind": "function",
+      "details": "<code>[tag parent] [h tag parent]<\/code>"
+    },
+    {
+      "trigger": "descendants",
+      "contents": "descendants",
+      "kind": "function",
+      "details": "<code>[tag] [h tag]<\/code>"
+    },
+    {
+      "trigger": "destructure",
+      "contents": "destructure",
+      "kind": "function",
+      "details": "<code>[bindings]<\/code>"
+    },
+    {
+      "trigger": "disj",
+      "contents": "disj",
+      "kind": "function",
+      "details": "<code>[set] [set key] [set key & ks]<\/code>"
+    },
+    {
+      "trigger": "disj!",
+      "contents": "disj!",
+      "kind": "function",
+      "details": "<code>[set] [set key] [set key & ks]<\/code>"
+    },
+    {
+      "trigger": "dissoc",
+      "contents": "dissoc",
+      "kind": "function",
+      "details": "<code>[map] [map key] [map key & ks]<\/code>"
+    },
+    {
+      "trigger": "dissoc!",
+      "contents": "dissoc!",
+      "kind": "function",
+      "details": "<code>[map key] [map key & ks]<\/code>"
+    },
+    {
+      "trigger": "distinct",
+      "contents": "distinct",
+      "kind": "function",
+      "details": "<code>[] [coll]<\/code>"
+    },
+    {
+      "trigger": "distinct?",
+      "contents": "distinct?",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "doall",
+      "contents": "doall",
+      "kind": "function",
+      "details": "<code>[coll] [n coll]<\/code>"
+    },
+    {
+      "trigger": "dorun",
+      "contents": "dorun",
+      "kind": "function",
+      "details": "<code>[coll] [n coll]<\/code>"
+    },
+    {
+      "trigger": "doseq",
+      "contents": "doseq",
+      "kind": "function",
+      "details": "<code>[seq-exprs & body]<\/code>"
+    },
+    {
+      "trigger": "dosync",
+      "contents": "dosync",
+      "kind": "function",
+      "details": "<code>[& exprs]<\/code>"
+    },
+    {
+      "trigger": "dotimes",
+      "contents": "dotimes",
+      "kind": "function",
+      "details": "<code>[bindings & body]<\/code>"
+    },
+    {
+      "trigger": "doto",
+      "contents": "doto",
+      "kind": "function",
+      "details": "<code>[x & forms]<\/code>"
+    },
+    {
+      "trigger": "double",
+      "contents": "double",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "double-array",
+      "contents": "double-array",
+      "kind": "function",
+      "details": "<code>[size-or-seq] [size init-val-or-seq]<\/code>"
+    },
+    {
+      "trigger": "double?",
+      "contents": "double?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "doubles",
+      "contents": "doubles",
+      "kind": "function",
+      "details": "<code>[xs]<\/code>"
+    },
+    {
+      "trigger": "drop",
+      "contents": "drop",
+      "kind": "function",
+      "details": "<code>[n] [n coll]<\/code>"
+    },
+    {
+      "trigger": "drop-last",
+      "contents": "drop-last",
+      "kind": "function",
+      "details": "<code>[coll] [n coll]<\/code>"
+    },
+    {
+      "trigger": "drop-while",
+      "contents": "drop-while",
+      "kind": "function",
+      "details": "<code>[pred] [pred coll]<\/code>"
+    },
+    {
+      "trigger": "eduction",
+      "contents": "eduction",
+      "kind": "function",
+      "details": "<code>[xform* coll]<\/code>"
+    },
+    {
+      "trigger": "empty",
+      "contents": "empty",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "empty?",
+      "contents": "empty?",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "ensure",
+      "contents": "ensure",
+      "kind": "function",
+      "details": "<code>[ref]<\/code>"
+    },
+    {
+      "trigger": "ensure-reduced",
+      "contents": "ensure-reduced",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "enumeration-seq",
+      "contents": "enumeration-seq",
+      "kind": "function",
+      "details": "<code>[e]<\/code>"
+    },
+    {
+      "trigger": "error-handler",
+      "contents": "error-handler",
+      "kind": "function",
+      "details": "<code>[a]<\/code>"
+    },
+    {
+      "trigger": "error-mode",
+      "contents": "error-mode",
+      "kind": "function",
+      "details": "<code>[a]<\/code>"
+    },
+    {
+      "trigger": "eval",
+      "contents": "eval",
+      "kind": "function",
+      "details": "<code>[form]<\/code>"
+    },
+    {
+      "trigger": "even?",
+      "contents": "even?",
+      "kind": "function",
+      "details": "<code>[n]<\/code>"
+    },
+    {
+      "trigger": "every-pred",
+      "contents": "every-pred",
+      "kind": "function",
+      "details": "<code>[p] [p1 p2] [p1 p2 p3] [p1 p2 p3 & ps]<\/code>"
+    },
+    {
+      "trigger": "every?",
+      "contents": "every?",
+      "kind": "function",
+      "details": "<code>[pred coll]<\/code>"
+    },
+    {
+      "trigger": "ex-cause",
+      "contents": "ex-cause",
+      "kind": "function",
+      "details": "<code>[ex]<\/code>"
+    },
+    {
+      "trigger": "ex-data",
+      "contents": "ex-data",
+      "kind": "function",
+      "details": "<code>[ex]<\/code>"
+    },
+    {
+      "trigger": "ex-info",
+      "contents": "ex-info",
+      "kind": "function",
+      "details": "<code>[msg map] [msg map cause]<\/code>"
+    },
+    {
+      "trigger": "ex-message",
+      "contents": "ex-message",
+      "kind": "function",
+      "details": "<code>[ex]<\/code>"
+    },
+    {
+      "trigger": "extend",
+      "contents": "extend",
+      "kind": "function",
+      "details": "<code>[atype & proto+mmaps]<\/code>"
+    },
+    {
+      "trigger": "extend-protocol",
+      "contents": "extend-protocol",
+      "kind": "function",
+      "details": "<code>[p & specs]<\/code>"
+    },
+    {
+      "trigger": "extend-type",
+      "contents": "extend-type",
+      "kind": "function",
+      "details": "<code>[t & specs]<\/code>"
+    },
+    {
+      "trigger": "extenders",
+      "contents": "extenders",
+      "kind": "function",
+      "details": "<code>[protocol]<\/code>"
+    },
+    {
+      "trigger": "extends?",
+      "contents": "extends?",
+      "kind": "function",
+      "details": "<code>[protocol atype]<\/code>"
+    },
+    {
+      "trigger": "false?",
+      "contents": "false?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "ffirst",
+      "contents": "ffirst",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "file-seq",
+      "contents": "file-seq",
+      "kind": "function",
+      "details": "<code>[dir]<\/code>"
+    },
+    {
+      "trigger": "filter",
+      "contents": "filter",
+      "kind": "function",
+      "details": "<code>[pred] [pred coll]<\/code>"
+    },
+    {
+      "trigger": "filterv",
+      "contents": "filterv",
+      "kind": "function",
+      "details": "<code>[pred coll]<\/code>"
+    },
+    {
+      "trigger": "find",
+      "contents": "find",
+      "kind": "function",
+      "details": "<code>[map key]<\/code>"
+    },
+    {
+      "trigger": "find-keyword",
+      "contents": "find-keyword",
+      "kind": "function",
+      "details": "<code>[name] [ns name]<\/code>"
+    },
+    {
+      "trigger": "find-ns",
+      "contents": "find-ns",
+      "kind": "function",
+      "details": "<code>[sym]<\/code>"
+    },
+    {
+      "trigger": "find-protocol-impl",
+      "contents": "find-protocol-impl",
+      "kind": "function",
+      "details": "<code>[protocol x]<\/code>"
+    },
+    {
+      "trigger": "find-protocol-method",
+      "contents": "find-protocol-method",
+      "kind": "function",
+      "details": "<code>[protocol methodk x]<\/code>"
+    },
+    {
+      "trigger": "find-var",
+      "contents": "find-var",
+      "kind": "function",
+      "details": "<code>[sym]<\/code>"
+    },
+    {
+      "trigger": "first",
+      "contents": "first",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "flatten",
+      "contents": "flatten",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "float",
+      "contents": "float",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "float-array",
+      "contents": "float-array",
+      "kind": "function",
+      "details": "<code>[size-or-seq] [size init-val-or-seq]<\/code>"
+    },
+    {
+      "trigger": "float?",
+      "contents": "float?",
+      "kind": "function",
+      "details": "<code>[n]<\/code>"
+    },
+    {
+      "trigger": "floats",
+      "contents": "floats",
+      "kind": "function",
+      "details": "<code>[xs]<\/code>"
+    },
+    {
+      "trigger": "flush",
+      "contents": "flush",
+      "kind": "function",
+      "details": "<code>[]<\/code>"
+    },
+    {
+      "trigger": "fn",
+      "contents": "fn",
+      "kind": "function",
+      "details": "<code>[& sigs]<\/code>"
+    },
+    {
+      "trigger": "fn?",
+      "contents": "fn?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "fnext",
+      "contents": "fnext",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "fnil",
+      "contents": "fnil",
+      "kind": "function",
+      "details": "<code>[f x] [f x y] [f x y z]<\/code>"
+    },
+    {
+      "trigger": "for",
+      "contents": "for",
+      "kind": "function",
+      "details": "<code>[seq-exprs body-expr]<\/code>"
+    },
+    {
+      "trigger": "force",
+      "contents": "force",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "format",
+      "contents": "format",
+      "kind": "function",
+      "details": "<code>[fmt & args]<\/code>"
+    },
+    {
+      "trigger": "frequencies",
+      "contents": "frequencies",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "future",
+      "contents": "future",
+      "kind": "function",
+      "details": "<code>[& body]<\/code>"
+    },
+    {
+      "trigger": "future-call",
+      "contents": "future-call",
+      "kind": "function",
+      "details": "<code>[f]<\/code>"
+    },
+    {
+      "trigger": "future-cancel",
+      "contents": "future-cancel",
+      "kind": "function",
+      "details": "<code>[f]<\/code>"
+    },
+    {
+      "trigger": "future-cancelled?",
+      "contents": "future-cancelled?",
+      "kind": "function",
+      "details": "<code>[f]<\/code>"
+    },
+    {
+      "trigger": "future-done?",
+      "contents": "future-done?",
+      "kind": "function",
+      "details": "<code>[f]<\/code>"
+    },
+    {
+      "trigger": "future?",
+      "contents": "future?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "gen-class",
+      "contents": "gen-class",
+      "kind": "function",
+      "details": "<code>[& options]<\/code>"
+    },
+    {
+      "trigger": "gen-interface",
+      "contents": "gen-interface",
+      "kind": "function",
+      "details": "<code>[& options]<\/code>"
+    },
+    {
+      "trigger": "gensym",
+      "contents": "gensym",
+      "kind": "function",
+      "details": "<code>[] [prefix-string]<\/code>"
+    },
+    {
+      "trigger": "get",
+      "contents": "get",
+      "kind": "function",
+      "details": "<code>[map key] [map key not-found]<\/code>"
+    },
+    {
+      "trigger": "get-in",
+      "contents": "get-in",
+      "kind": "function",
+      "details": "<code>[m ks] [m ks not-found]<\/code>"
+    },
+    {
+      "trigger": "get-method",
+      "contents": "get-method",
+      "kind": "function",
+      "details": "<code>[multifn dispatch-val]<\/code>"
+    },
+    {
+      "trigger": "get-proxy-class",
+      "contents": "get-proxy-class",
+      "kind": "function",
+      "details": "<code>[& bases]<\/code>"
+    },
+    {
+      "trigger": "get-thread-bindings",
+      "contents": "get-thread-bindings",
+      "kind": "function",
+      "details": "<code>[]<\/code>"
+    },
+    {
+      "trigger": "get-validator",
+      "contents": "get-validator",
+      "kind": "function",
+      "details": "<code>[iref]<\/code>"
+    },
+    {
+      "trigger": "group-by",
+      "contents": "group-by",
+      "kind": "function",
+      "details": "<code>[f coll]<\/code>"
+    },
+    {
+      "trigger": "halt-when",
+      "contents": "halt-when",
+      "kind": "function",
+      "details": "<code>[pred] [pred retf]<\/code>"
+    },
+    {
+      "trigger": "hash",
+      "contents": "hash",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "hash-combine",
+      "contents": "hash-combine",
+      "kind": "function",
+      "details": "<code>[x y]<\/code>"
+    },
+    {
+      "trigger": "hash-map",
+      "contents": "hash-map",
+      "kind": "function",
+      "details": "<code>[] [& keyvals]<\/code>"
+    },
+    {
+      "trigger": "hash-ordered-coll",
+      "contents": "hash-ordered-coll",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "hash-set",
+      "contents": "hash-set",
+      "kind": "function",
+      "details": "<code>[] [& keys]<\/code>"
+    },
+    {
+      "trigger": "hash-unordered-coll",
+      "contents": "hash-unordered-coll",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "ident?",
+      "contents": "ident?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "identical?",
+      "contents": "identical?",
+      "kind": "function",
+      "details": "<code>[x y]<\/code>"
+    },
+    {
+      "trigger": "identity",
+      "contents": "identity",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "if-let",
+      "contents": "if-let",
+      "kind": "function",
+      "details": "<code>[bindings then] [bindings then else & oldform]<\/code>"
+    },
+    {
+      "trigger": "if-not",
+      "contents": "if-not",
+      "kind": "function",
+      "details": "<code>[test then] [test then else]<\/code>"
+    },
+    {
+      "trigger": "if-some",
+      "contents": "if-some",
+      "kind": "function",
+      "details": "<code>[bindings then] [bindings then else & oldform]<\/code>"
+    },
+    {
+      "trigger": "ifn?",
+      "contents": "ifn?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "import",
+      "contents": "import",
+      "kind": "function",
+      "details": "<code>[& import-symbols-or-lists]<\/code>"
+    },
+    {
+      "trigger": "in-ns",
+      "contents": "in-ns",
+      "kind": "function",
+      "details": "<code>[name]<\/code>"
+    },
+    {
+      "trigger": "inc",
+      "contents": "inc",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "inc'",
+      "contents": "inc'",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "indexed?",
+      "contents": "indexed?",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "init-proxy",
+      "contents": "init-proxy",
+      "kind": "function",
+      "details": "<code>[proxy mappings]<\/code>"
+    },
+    {
+      "trigger": "inst-ms",
+      "contents": "inst-ms",
+      "kind": "function",
+      "details": "<code>[inst]<\/code>"
+    },
+    {
+      "trigger": "inst-ms*",
+      "contents": "inst-ms*",
+      "kind": "function",
+      "details": "<code>[inst]<\/code>"
+    },
+    {
+      "trigger": "inst?",
+      "contents": "inst?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "instance?",
+      "contents": "instance?",
+      "kind": "function",
+      "details": "<code>[c x]<\/code>"
+    },
+    {
+      "trigger": "int",
+      "contents": "int",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "int-array",
+      "contents": "int-array",
+      "kind": "function",
+      "details": "<code>[size-or-seq] [size init-val-or-seq]<\/code>"
+    },
+    {
+      "trigger": "int?",
+      "contents": "int?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "integer?",
+      "contents": "integer?",
+      "kind": "function",
+      "details": "<code>[n]<\/code>"
+    },
+    {
+      "trigger": "interleave",
+      "contents": "interleave",
+      "kind": "function",
+      "details": "<code>[] [c1] [c1 c2] [c1 c2 & colls]<\/code>"
+    },
+    {
+      "trigger": "intern",
+      "contents": "intern",
+      "kind": "function",
+      "details": "<code>[ns name] [ns name val]<\/code>"
+    },
+    {
+      "trigger": "interpose",
+      "contents": "interpose",
+      "kind": "function",
+      "details": "<code>[sep] [sep coll]<\/code>"
+    },
+    {
+      "trigger": "into",
+      "contents": "into",
+      "kind": "function",
+      "details": "<code>[] [to] [to from] [to xform from]<\/code>"
+    },
+    {
+      "trigger": "into-array",
+      "contents": "into-array",
+      "kind": "function",
+      "details": "<code>[aseq] [type aseq]<\/code>"
+    },
+    {
+      "trigger": "ints",
+      "contents": "ints",
+      "kind": "function",
+      "details": "<code>[xs]<\/code>"
+    },
+    {
+      "trigger": "io!",
+      "contents": "io!",
+      "kind": "function",
+      "details": "<code>[& body]<\/code>"
+    },
+    {
+      "trigger": "isa?",
+      "contents": "isa?",
+      "kind": "function",
+      "details": "<code>[child parent] [h child parent]<\/code>"
+    },
+    {
+      "trigger": "iterate",
+      "contents": "iterate",
+      "kind": "function",
+      "details": "<code>[f x]<\/code>"
+    },
+    {
+      "trigger": "iterator-seq",
+      "contents": "iterator-seq",
+      "kind": "function",
+      "details": "<code>[iter]<\/code>"
+    },
+    {
+      "trigger": "juxt",
+      "contents": "juxt",
+      "kind": "function",
+      "details": "<code>[f] [f g] [f g h] [f g h & fs]<\/code>"
+    },
+    {
+      "trigger": "keep",
+      "contents": "keep",
+      "kind": "function",
+      "details": "<code>[f] [f coll]<\/code>"
+    },
+    {
+      "trigger": "keep-indexed",
+      "contents": "keep-indexed",
+      "kind": "function",
+      "details": "<code>[f] [f coll]<\/code>"
+    },
+    {
+      "trigger": "key",
+      "contents": "key",
+      "kind": "function",
+      "details": "<code>[e]<\/code>"
+    },
+    {
+      "trigger": "keys",
+      "contents": "keys",
+      "kind": "function",
+      "details": "<code>[map]<\/code>"
+    },
+    {
+      "trigger": "keyword",
+      "contents": "keyword",
+      "kind": "function",
+      "details": "<code>[name] [ns name]<\/code>"
+    },
+    {
+      "trigger": "keyword?",
+      "contents": "keyword?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "last",
+      "contents": "last",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "lazy-cat",
+      "contents": "lazy-cat",
+      "kind": "function",
+      "details": "<code>[& colls]<\/code>"
+    },
+    {
+      "trigger": "lazy-seq",
+      "contents": "lazy-seq",
+      "kind": "function",
+      "details": "<code>[& body]<\/code>"
+    },
+    {
+      "trigger": "let",
+      "contents": "let",
+      "kind": "function",
+      "details": "<code>[bindings & body]<\/code>"
+    },
+    {
+      "trigger": "letfn",
+      "contents": "letfn",
+      "kind": "function",
+      "details": "<code>[fnspecs & body]<\/code>"
+    },
+    {
+      "trigger": "line-seq",
+      "contents": "line-seq",
+      "kind": "function",
+      "details": "<code>[rdr]<\/code>"
+    },
+    {
+      "trigger": "list",
+      "contents": "list",
+      "kind": "function",
+      "details": "<code>[& items]<\/code>"
+    },
+    {
+      "trigger": "list*",
+      "contents": "list*",
+      "kind": "function",
+      "details": "<code>[args] [a args] [a b args] [a b c args] [a b c d & more]<\/code>"
+    },
+    {
+      "trigger": "list?",
+      "contents": "list?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "load",
+      "contents": "load",
+      "kind": "function",
+      "details": "<code>[& paths]<\/code>"
+    },
+    {
+      "trigger": "load-file",
+      "contents": "load-file",
+      "kind": "function",
+      "details": "<code>[name]<\/code>"
+    },
+    {
+      "trigger": "load-reader",
+      "contents": "load-reader",
+      "kind": "function",
+      "details": "<code>[rdr]<\/code>"
+    },
+    {
+      "trigger": "load-string",
+      "contents": "load-string",
+      "kind": "function",
+      "details": "<code>[s]<\/code>"
+    },
+    {
+      "trigger": "loaded-libs",
+      "contents": "loaded-libs",
+      "kind": "function",
+      "details": "<code>[]<\/code>"
+    },
+    {
+      "trigger": "locking",
+      "contents": "locking",
+      "kind": "function",
+      "details": "<code>[x & body]<\/code>"
+    },
+    {
+      "trigger": "long",
+      "contents": "long",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "long-array",
+      "contents": "long-array",
+      "kind": "function",
+      "details": "<code>[size-or-seq] [size init-val-or-seq]<\/code>"
+    },
+    {
+      "trigger": "longs",
+      "contents": "longs",
+      "kind": "function",
+      "details": "<code>[xs]<\/code>"
+    },
+    {
+      "trigger": "loop",
+      "contents": "loop",
+      "kind": "function",
+      "details": "<code>[bindings & body]<\/code>"
+    },
+    {
+      "trigger": "macroexpand",
+      "contents": "macroexpand",
+      "kind": "function",
+      "details": "<code>[form]<\/code>"
+    },
+    {
+      "trigger": "macroexpand-1",
+      "contents": "macroexpand-1",
+      "kind": "function",
+      "details": "<code>[form]<\/code>"
+    },
+    {
+      "trigger": "make-array",
+      "contents": "make-array",
+      "kind": "function",
+      "details": "<code>[type len] [type dim & more-dims]<\/code>"
+    },
+    {
+      "trigger": "make-hierarchy",
+      "contents": "make-hierarchy",
+      "kind": "function",
+      "details": "<code>[]<\/code>"
+    },
+    {
+      "trigger": "map",
+      "contents": "map",
+      "kind": "function",
+      "details": "<code>[f] [f coll] [f c1 c2] [f c1 c2 c3] [f c1 c2 c3 & colls]<\/code>"
+    },
+    {
+      "trigger": "map-entry?",
+      "contents": "map-entry?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "map-indexed",
+      "contents": "map-indexed",
+      "kind": "function",
+      "details": "<code>[f] [f coll]<\/code>"
+    },
+    {
+      "trigger": "map?",
+      "contents": "map?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "mapcat",
+      "contents": "mapcat",
+      "kind": "function",
+      "details": "<code>[f] [f & colls]<\/code>"
+    },
+    {
+      "trigger": "mapv",
+      "contents": "mapv",
+      "kind": "function",
+      "details": "<code>[f coll] [f c1 c2] [f c1 c2 c3] [f c1 c2 c3 & colls]<\/code>"
+    },
+    {
+      "trigger": "max",
+      "contents": "max",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "max-key",
+      "contents": "max-key",
+      "kind": "function",
+      "details": "<code>[k x] [k x y] [k x y & more]<\/code>"
+    },
+    {
+      "trigger": "memfn",
+      "contents": "memfn",
+      "kind": "function",
+      "details": "<code>[name & args]<\/code>"
+    },
+    {
+      "trigger": "memoize",
+      "contents": "memoize",
+      "kind": "function",
+      "details": "<code>[f]<\/code>"
+    },
+    {
+      "trigger": "merge",
+      "contents": "merge",
+      "kind": "function",
+      "details": "<code>[& maps]<\/code>"
+    },
+    {
+      "trigger": "merge-with",
+      "contents": "merge-with",
+      "kind": "function",
+      "details": "<code>[f & maps]<\/code>"
+    },
+    {
+      "trigger": "meta",
+      "contents": "meta",
+      "kind": "function",
+      "details": "<code>[obj]<\/code>"
+    },
+    {
+      "trigger": "method-sig",
+      "contents": "method-sig",
+      "kind": "function",
+      "details": "<code>[meth]<\/code>"
+    },
+    {
+      "trigger": "methods",
+      "contents": "methods",
+      "kind": "function",
+      "details": "<code>[multifn]<\/code>"
+    },
+    {
+      "trigger": "min",
+      "contents": "min",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "min-key",
+      "contents": "min-key",
+      "kind": "function",
+      "details": "<code>[k x] [k x y] [k x y & more]<\/code>"
+    },
+    {
+      "trigger": "mix-collection-hash",
+      "contents": "mix-collection-hash",
+      "kind": "function",
+      "details": "<code>[hash-basis count]<\/code>"
+    },
+    {
+      "trigger": "mod",
+      "contents": "mod",
+      "kind": "function",
+      "details": "<code>[num div]<\/code>"
+    },
+    {
+      "trigger": "munge",
+      "contents": "munge",
+      "kind": "function",
+      "details": "<code>[s]<\/code>"
+    },
+    {
+      "trigger": "name",
+      "contents": "name",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "namespace",
+      "contents": "namespace",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "namespace-munge",
+      "contents": "namespace-munge",
+      "kind": "function",
+      "details": "<code>[ns]<\/code>"
+    },
+    {
+      "trigger": "nat-int?",
+      "contents": "nat-int?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "neg-int?",
+      "contents": "neg-int?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "neg?",
+      "contents": "neg?",
+      "kind": "function",
+      "details": "<code>[num]<\/code>"
+    },
+    {
+      "trigger": "newline",
+      "contents": "newline",
+      "kind": "function",
+      "details": "<code>[]<\/code>"
+    },
+    {
+      "trigger": "next",
+      "contents": "next",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "nfirst",
+      "contents": "nfirst",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "nil?",
+      "contents": "nil?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "nnext",
+      "contents": "nnext",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "not",
+      "contents": "not",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "not-any?",
+      "contents": "not-any?",
+      "kind": "function",
+      "details": "<code>[pred coll]<\/code>"
+    },
+    {
+      "trigger": "not-empty",
+      "contents": "not-empty",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "not-every?",
+      "contents": "not-every?",
+      "kind": "function",
+      "details": "<code>[pred coll]<\/code>"
+    },
+    {
+      "trigger": "not=",
+      "contents": "not=",
+      "kind": "function",
+      "details": "<code>[x] [x y] [x y & more]<\/code>"
+    },
+    {
+      "trigger": "ns",
+      "contents": "ns",
+      "kind": "function",
+      "details": "<code>[name docstring? attr-map? references*]<\/code>"
+    },
+    {
+      "trigger": "ns-aliases",
+      "contents": "ns-aliases",
+      "kind": "function",
+      "details": "<code>[ns]<\/code>"
+    },
+    {
+      "trigger": "ns-imports",
+      "contents": "ns-imports",
+      "kind": "function",
+      "details": "<code>[ns]<\/code>"
+    },
+    {
+      "trigger": "ns-interns",
+      "contents": "ns-interns",
+      "kind": "function",
+      "details": "<code>[ns]<\/code>"
+    },
+    {
+      "trigger": "ns-map",
+      "contents": "ns-map",
+      "kind": "function",
+      "details": "<code>[ns]<\/code>"
+    },
+    {
+      "trigger": "ns-name",
+      "contents": "ns-name",
+      "kind": "function",
+      "details": "<code>[ns]<\/code>"
+    },
+    {
+      "trigger": "ns-publics",
+      "contents": "ns-publics",
+      "kind": "function",
+      "details": "<code>[ns]<\/code>"
+    },
+    {
+      "trigger": "ns-refers",
+      "contents": "ns-refers",
+      "kind": "function",
+      "details": "<code>[ns]<\/code>"
+    },
+    {
+      "trigger": "ns-resolve",
+      "contents": "ns-resolve",
+      "kind": "function",
+      "details": "<code>[ns sym] [ns env sym]<\/code>"
+    },
+    {
+      "trigger": "ns-unalias",
+      "contents": "ns-unalias",
+      "kind": "function",
+      "details": "<code>[ns sym]<\/code>"
+    },
+    {
+      "trigger": "ns-unmap",
+      "contents": "ns-unmap",
+      "kind": "function",
+      "details": "<code>[ns sym]<\/code>"
+    },
+    {
+      "trigger": "nth",
+      "contents": "nth",
+      "kind": "function",
+      "details": "<code>[coll index] [coll index not-found]<\/code>"
+    },
+    {
+      "trigger": "nthnext",
+      "contents": "nthnext",
+      "kind": "function",
+      "details": "<code>[coll n]<\/code>"
+    },
+    {
+      "trigger": "nthrest",
+      "contents": "nthrest",
+      "kind": "function",
+      "details": "<code>[coll n]<\/code>"
+    },
+    {
+      "trigger": "num",
+      "contents": "num",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "number?",
+      "contents": "number?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "numerator",
+      "contents": "numerator",
+      "kind": "function",
+      "details": "<code>[r]<\/code>"
+    },
+    {
+      "trigger": "object-array",
+      "contents": "object-array",
+      "kind": "function",
+      "details": "<code>[size-or-seq]<\/code>"
+    },
+    {
+      "trigger": "odd?",
+      "contents": "odd?",
+      "kind": "function",
+      "details": "<code>[n]<\/code>"
+    },
+    {
+      "trigger": "or",
+      "contents": "or",
+      "kind": "function",
+      "details": "<code>[] [x] [x & next]<\/code>"
+    },
+    {
+      "trigger": "parents",
+      "contents": "parents",
+      "kind": "function",
+      "details": "<code>[tag] [h tag]<\/code>"
+    },
+    {
+      "trigger": "partial",
+      "contents": "partial",
+      "kind": "function",
+      "details": "<code>[f] [f arg1] [f arg1 arg2] [f arg1 arg2 arg3] [f arg1 arg2 arg3 & more]<\/code>"
+    },
+    {
+      "trigger": "partition",
+      "contents": "partition",
+      "kind": "function",
+      "details": "<code>[n coll] [n step coll] [n step pad coll]<\/code>"
+    },
+    {
+      "trigger": "partition-all",
+      "contents": "partition-all",
+      "kind": "function",
+      "details": "<code>[n] [n coll] [n step coll]<\/code>"
+    },
+    {
+      "trigger": "partition-by",
+      "contents": "partition-by",
+      "kind": "function",
+      "details": "<code>[f] [f coll]<\/code>"
+    },
+    {
+      "trigger": "pcalls",
+      "contents": "pcalls",
+      "kind": "function",
+      "details": "<code>[& fns]<\/code>"
+    },
+    {
+      "trigger": "peek",
+      "contents": "peek",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "persistent!",
+      "contents": "persistent!",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "pmap",
+      "contents": "pmap",
+      "kind": "function",
+      "details": "<code>[f coll] [f coll & colls]<\/code>"
+    },
+    {
+      "trigger": "pop",
+      "contents": "pop",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "pop!",
+      "contents": "pop!",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "pop-thread-bindings",
+      "contents": "pop-thread-bindings",
+      "kind": "function",
+      "details": "<code>[]<\/code>"
+    },
+    {
+      "trigger": "pos-int?",
+      "contents": "pos-int?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "pos?",
+      "contents": "pos?",
+      "kind": "function",
+      "details": "<code>[num]<\/code>"
+    },
+    {
+      "trigger": "pr",
+      "contents": "pr",
+      "kind": "function",
+      "details": "<code>[] [x] [x & more]<\/code>"
+    },
+    {
+      "trigger": "pr-str",
+      "contents": "pr-str",
+      "kind": "function",
+      "details": "<code>[& xs]<\/code>"
+    },
+    {
+      "trigger": "prefer-method",
+      "contents": "prefer-method",
+      "kind": "function",
+      "details": "<code>[multifn dispatch-val-x dispatch-val-y]<\/code>"
+    },
+    {
+      "trigger": "prefers",
+      "contents": "prefers",
+      "kind": "function",
+      "details": "<code>[multifn]<\/code>"
+    },
+    {
+      "trigger": "primitives-classnames",
+      "contents": "primitives-classnames",
+      "kind": "variable"
+    },
+    {
+      "trigger": "print",
+      "contents": "print",
+      "kind": "function",
+      "details": "<code>[& more]<\/code>"
+    },
+    {
+      "trigger": "print-ctor",
+      "contents": "print-ctor",
+      "kind": "function",
+      "details": "<code>[o print-args w]<\/code>"
+    },
+    {
+      "trigger": "print-dup",
+      "contents": "print-dup",
+      "kind": "variable"
+    },
+    {
+      "trigger": "print-method",
+      "contents": "print-method",
+      "kind": "variable"
+    },
+    {
+      "trigger": "print-simple",
+      "contents": "print-simple",
+      "kind": "function",
+      "details": "<code>[o w]<\/code>"
+    },
+    {
+      "trigger": "print-str",
+      "contents": "print-str",
+      "kind": "function",
+      "details": "<code>[& xs]<\/code>"
+    },
+    {
+      "trigger": "printf",
+      "contents": "printf",
+      "kind": "function",
+      "details": "<code>[fmt & args]<\/code>"
+    },
+    {
+      "trigger": "println",
+      "contents": "println",
+      "kind": "function",
+      "details": "<code>[& more]<\/code>"
+    },
+    {
+      "trigger": "println-str",
+      "contents": "println-str",
+      "kind": "function",
+      "details": "<code>[& xs]<\/code>"
+    },
+    {
+      "trigger": "prn",
+      "contents": "prn",
+      "kind": "function",
+      "details": "<code>[& more]<\/code>"
+    },
+    {
+      "trigger": "prn-str",
+      "contents": "prn-str",
+      "kind": "function",
+      "details": "<code>[& xs]<\/code>"
+    },
+    {
+      "trigger": "promise",
+      "contents": "promise",
+      "kind": "function",
+      "details": "<code>[]<\/code>"
+    },
+    {
+      "trigger": "proxy",
+      "contents": "proxy",
+      "kind": "function",
+      "details": "<code>[class-and-interfaces args & fs]<\/code>"
+    },
+    {
+      "trigger": "proxy-call-with-super",
+      "contents": "proxy-call-with-super",
+      "kind": "function",
+      "details": "<code>[call this meth]<\/code>"
+    },
+    {
+      "trigger": "proxy-mappings",
+      "contents": "proxy-mappings",
+      "kind": "function",
+      "details": "<code>[proxy]<\/code>"
+    },
+    {
+      "trigger": "proxy-name",
+      "contents": "proxy-name",
+      "kind": "function",
+      "details": "<code>[super interfaces]<\/code>"
+    },
+    {
+      "trigger": "proxy-super",
+      "contents": "proxy-super",
+      "kind": "function",
+      "details": "<code>[meth & args]<\/code>"
+    },
+    {
+      "trigger": "push-thread-bindings",
+      "contents": "push-thread-bindings",
+      "kind": "function",
+      "details": "<code>[bindings]<\/code>"
+    },
+    {
+      "trigger": "pvalues",
+      "contents": "pvalues",
+      "kind": "function",
+      "details": "<code>[& exprs]<\/code>"
+    },
+    {
+      "trigger": "qualified-ident?",
+      "contents": "qualified-ident?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "qualified-keyword?",
+      "contents": "qualified-keyword?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "qualified-symbol?",
+      "contents": "qualified-symbol?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "quot",
+      "contents": "quot",
+      "kind": "function",
+      "details": "<code>[num div]<\/code>"
+    },
+    {
+      "trigger": "rand",
+      "contents": "rand",
+      "kind": "function",
+      "details": "<code>[] [n]<\/code>"
+    },
+    {
+      "trigger": "rand-int",
+      "contents": "rand-int",
+      "kind": "function",
+      "details": "<code>[n]<\/code>"
+    },
+    {
+      "trigger": "rand-nth",
+      "contents": "rand-nth",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "random-sample",
+      "contents": "random-sample",
+      "kind": "function",
+      "details": "<code>[prob] [prob coll]<\/code>"
+    },
+    {
+      "trigger": "range",
+      "contents": "range",
+      "kind": "function",
+      "details": "<code>[] [end] [start end] [start end step]<\/code>"
+    },
+    {
+      "trigger": "ratio?",
+      "contents": "ratio?",
+      "kind": "function",
+      "details": "<code>[n]<\/code>"
+    },
+    {
+      "trigger": "rational?",
+      "contents": "rational?",
+      "kind": "function",
+      "details": "<code>[n]<\/code>"
+    },
+    {
+      "trigger": "rationalize",
+      "contents": "rationalize",
+      "kind": "function",
+      "details": "<code>[num]<\/code>"
+    },
+    {
+      "trigger": "re-find",
+      "contents": "re-find",
+      "kind": "function",
+      "details": "<code>[m] [re s]<\/code>"
+    },
+    {
+      "trigger": "re-groups",
+      "contents": "re-groups",
+      "kind": "function",
+      "details": "<code>[m]<\/code>"
+    },
+    {
+      "trigger": "re-matcher",
+      "contents": "re-matcher",
+      "kind": "function",
+      "details": "<code>[re s]<\/code>"
+    },
+    {
+      "trigger": "re-matches",
+      "contents": "re-matches",
+      "kind": "function",
+      "details": "<code>[re s]<\/code>"
+    },
+    {
+      "trigger": "re-pattern",
+      "contents": "re-pattern",
+      "kind": "function",
+      "details": "<code>[s]<\/code>"
+    },
+    {
+      "trigger": "re-seq",
+      "contents": "re-seq",
+      "kind": "function",
+      "details": "<code>[re s]<\/code>"
+    },
+    {
+      "trigger": "read",
+      "contents": "read",
+      "kind": "function",
+      "details": "<code>[] [stream] [stream eof-error? eof-value] [stream eof-error? eof-value recursive?] [opts stream]<\/code>"
+    },
+    {
+      "trigger": "read+string",
+      "contents": "read+string",
+      "kind": "function",
+      "details": "<code>[] [stream] [stream eof-error? eof-value] [stream eof-error? eof-value recursive?] [opts stream]<\/code>"
+    },
+    {
+      "trigger": "read-line",
+      "contents": "read-line",
+      "kind": "function",
+      "details": "<code>[]<\/code>"
+    },
+    {
+      "trigger": "read-string",
+      "contents": "read-string",
+      "kind": "function",
+      "details": "<code>[s] [opts s]<\/code>"
+    },
+    {
+      "trigger": "reader-conditional",
+      "contents": "reader-conditional",
+      "kind": "function",
+      "details": "<code>[form splicing?]<\/code>"
+    },
+    {
+      "trigger": "reader-conditional?",
+      "contents": "reader-conditional?",
+      "kind": "function",
+      "details": "<code>[value]<\/code>"
+    },
+    {
+      "trigger": "realized?",
+      "contents": "realized?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "record?",
+      "contents": "record?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "reduce",
+      "contents": "reduce",
+      "kind": "function",
+      "details": "<code>[f coll] [f val coll]<\/code>"
+    },
+    {
+      "trigger": "reduce-kv",
+      "contents": "reduce-kv",
+      "kind": "function",
+      "details": "<code>[f init coll]<\/code>"
+    },
+    {
+      "trigger": "reduced",
+      "contents": "reduced",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "reduced?",
+      "contents": "reduced?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "reductions",
+      "contents": "reductions",
+      "kind": "function",
+      "details": "<code>[f coll] [f init coll]<\/code>"
+    },
+    {
+      "trigger": "ref",
+      "contents": "ref",
+      "kind": "function",
+      "details": "<code>[x] [x & options]<\/code>"
+    },
+    {
+      "trigger": "ref-history-count",
+      "contents": "ref-history-count",
+      "kind": "function",
+      "details": "<code>[ref]<\/code>"
+    },
+    {
+      "trigger": "ref-max-history",
+      "contents": "ref-max-history",
+      "kind": "function",
+      "details": "<code>[ref] [ref n]<\/code>"
+    },
+    {
+      "trigger": "ref-min-history",
+      "contents": "ref-min-history",
+      "kind": "function",
+      "details": "<code>[ref] [ref n]<\/code>"
+    },
+    {
+      "trigger": "ref-set",
+      "contents": "ref-set",
+      "kind": "function",
+      "details": "<code>[ref val]<\/code>"
+    },
+    {
+      "trigger": "refer",
+      "contents": "refer",
+      "kind": "function",
+      "details": "<code>[ns-sym & filters]<\/code>"
+    },
+    {
+      "trigger": "refer-clojure",
+      "contents": "refer-clojure",
+      "kind": "function",
+      "details": "<code>[& filters]<\/code>"
+    },
+    {
+      "trigger": "reify",
+      "contents": "reify",
+      "kind": "function",
+      "details": "<code>[& opts+specs]<\/code>"
+    },
+    {
+      "trigger": "release-pending-sends",
+      "contents": "release-pending-sends",
+      "kind": "function",
+      "details": "<code>[]<\/code>"
+    },
+    {
+      "trigger": "rem",
+      "contents": "rem",
+      "kind": "function",
+      "details": "<code>[num div]<\/code>"
+    },
+    {
+      "trigger": "remove",
+      "contents": "remove",
+      "kind": "function",
+      "details": "<code>[pred] [pred coll]<\/code>"
+    },
+    {
+      "trigger": "remove-all-methods",
+      "contents": "remove-all-methods",
+      "kind": "function",
+      "details": "<code>[multifn]<\/code>"
+    },
+    {
+      "trigger": "remove-method",
+      "contents": "remove-method",
+      "kind": "function",
+      "details": "<code>[multifn dispatch-val]<\/code>"
+    },
+    {
+      "trigger": "remove-ns",
+      "contents": "remove-ns",
+      "kind": "function",
+      "details": "<code>[sym]<\/code>"
+    },
+    {
+      "trigger": "remove-tap",
+      "contents": "remove-tap",
+      "kind": "function",
+      "details": "<code>[f]<\/code>"
+    },
+    {
+      "trigger": "remove-watch",
+      "contents": "remove-watch",
+      "kind": "function",
+      "details": "<code>[reference key]<\/code>"
+    },
+    {
+      "trigger": "repeat",
+      "contents": "repeat",
+      "kind": "function",
+      "details": "<code>[x] [n x]<\/code>"
+    },
+    {
+      "trigger": "repeatedly",
+      "contents": "repeatedly",
+      "kind": "function",
+      "details": "<code>[f] [n f]<\/code>"
+    },
+    {
+      "trigger": "replace",
+      "contents": "replace",
+      "kind": "function",
+      "details": "<code>[smap] [smap coll]<\/code>"
+    },
+    {
+      "trigger": "replicate",
+      "contents": "replicate",
+      "kind": "function",
+      "details": "<code>[n x]<\/code>"
+    },
+    {
+      "trigger": "require",
+      "contents": "require",
+      "kind": "function",
+      "details": "<code>[& args]<\/code>"
+    },
+    {
+      "trigger": "requiring-resolve",
+      "contents": "requiring-resolve",
+      "kind": "function",
+      "details": "<code>[sym]<\/code>"
+    },
+    {
+      "trigger": "reset!",
+      "contents": "reset!",
+      "kind": "function",
+      "details": "<code>[atom newval]<\/code>"
+    },
+    {
+      "trigger": "reset-meta!",
+      "contents": "reset-meta!",
+      "kind": "function",
+      "details": "<code>[iref metadata-map]<\/code>"
+    },
+    {
+      "trigger": "reset-vals!",
+      "contents": "reset-vals!",
+      "kind": "function",
+      "details": "<code>[atom newval]<\/code>"
+    },
+    {
+      "trigger": "resolve",
+      "contents": "resolve",
+      "kind": "function",
+      "details": "<code>[sym] [env sym]<\/code>"
+    },
+    {
+      "trigger": "rest",
+      "contents": "rest",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "restart-agent",
+      "contents": "restart-agent",
+      "kind": "function",
+      "details": "<code>[a new-state & options]<\/code>"
+    },
+    {
+      "trigger": "resultset-seq",
+      "contents": "resultset-seq",
+      "kind": "function",
+      "details": "<code>[rs]<\/code>"
+    },
+    {
+      "trigger": "reverse",
+      "contents": "reverse",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "reversible?",
+      "contents": "reversible?",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "rseq",
+      "contents": "rseq",
+      "kind": "function",
+      "details": "<code>[rev]<\/code>"
+    },
+    {
+      "trigger": "rsubseq",
+      "contents": "rsubseq",
+      "kind": "function",
+      "details": "<code>[sc test key] [sc start-test start-key end-test end-key]<\/code>"
+    },
+    {
+      "trigger": "run!",
+      "contents": "run!",
+      "kind": "function",
+      "details": "<code>[proc coll]<\/code>"
+    },
+    {
+      "trigger": "satisfies?",
+      "contents": "satisfies?",
+      "kind": "function",
+      "details": "<code>[protocol x]<\/code>"
+    },
+    {
+      "trigger": "second",
+      "contents": "second",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "select-keys",
+      "contents": "select-keys",
+      "kind": "function",
+      "details": "<code>[map keyseq]<\/code>"
+    },
+    {
+      "trigger": "send",
+      "contents": "send",
+      "kind": "function",
+      "details": "<code>[a f & args]<\/code>"
+    },
+    {
+      "trigger": "send-off",
+      "contents": "send-off",
+      "kind": "function",
+      "details": "<code>[a f & args]<\/code>"
+    },
+    {
+      "trigger": "send-via",
+      "contents": "send-via",
+      "kind": "function",
+      "details": "<code>[executor a f & args]<\/code>"
+    },
+    {
+      "trigger": "seq",
+      "contents": "seq",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "seq?",
+      "contents": "seq?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "seqable?",
+      "contents": "seqable?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "seque",
+      "contents": "seque",
+      "kind": "function",
+      "details": "<code>[s] [n-or-q s]<\/code>"
+    },
+    {
+      "trigger": "sequence",
+      "contents": "sequence",
+      "kind": "function",
+      "details": "<code>[coll] [xform coll] [xform coll & colls]<\/code>"
+    },
+    {
+      "trigger": "sequential?",
+      "contents": "sequential?",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "set",
+      "contents": "set",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "set-agent-send-executor!",
+      "contents": "set-agent-send-executor!",
+      "kind": "function",
+      "details": "<code>[executor]<\/code>"
+    },
+    {
+      "trigger": "set-agent-send-off-executor!",
+      "contents": "set-agent-send-off-executor!",
+      "kind": "function",
+      "details": "<code>[executor]<\/code>"
+    },
+    {
+      "trigger": "set-error-handler!",
+      "contents": "set-error-handler!",
+      "kind": "function",
+      "details": "<code>[a handler-fn]<\/code>"
+    },
+    {
+      "trigger": "set-error-mode!",
+      "contents": "set-error-mode!",
+      "kind": "function",
+      "details": "<code>[a mode-keyword]<\/code>"
+    },
+    {
+      "trigger": "set-validator!",
+      "contents": "set-validator!",
+      "kind": "function",
+      "details": "<code>[iref validator-fn]<\/code>"
+    },
+    {
+      "trigger": "set?",
+      "contents": "set?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "short",
+      "contents": "short",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "short-array",
+      "contents": "short-array",
+      "kind": "function",
+      "details": "<code>[size-or-seq] [size init-val-or-seq]<\/code>"
+    },
+    {
+      "trigger": "shorts",
+      "contents": "shorts",
+      "kind": "function",
+      "details": "<code>[xs]<\/code>"
+    },
+    {
+      "trigger": "shuffle",
+      "contents": "shuffle",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "shutdown-agents",
+      "contents": "shutdown-agents",
+      "kind": "function",
+      "details": "<code>[]<\/code>"
+    },
+    {
+      "trigger": "simple-ident?",
+      "contents": "simple-ident?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "simple-keyword?",
+      "contents": "simple-keyword?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "simple-symbol?",
+      "contents": "simple-symbol?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "slurp",
+      "contents": "slurp",
+      "kind": "function",
+      "details": "<code>[f & opts]<\/code>"
+    },
+    {
+      "trigger": "some",
+      "contents": "some",
+      "kind": "function",
+      "details": "<code>[pred coll]<\/code>"
+    },
+    {
+      "trigger": "some->",
+      "contents": "some->",
+      "kind": "function",
+      "details": "<code>[expr & forms]<\/code>"
+    },
+    {
+      "trigger": "some->>",
+      "contents": "some->>",
+      "kind": "function",
+      "details": "<code>[expr & forms]<\/code>"
+    },
+    {
+      "trigger": "some-fn",
+      "contents": "some-fn",
+      "kind": "function",
+      "details": "<code>[p] [p1 p2] [p1 p2 p3] [p1 p2 p3 & ps]<\/code>"
+    },
+    {
+      "trigger": "some?",
+      "contents": "some?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "sort",
+      "contents": "sort",
+      "kind": "function",
+      "details": "<code>[coll] [comp coll]<\/code>"
+    },
+    {
+      "trigger": "sort-by",
+      "contents": "sort-by",
+      "kind": "function",
+      "details": "<code>[keyfn coll] [keyfn comp coll]<\/code>"
+    },
+    {
+      "trigger": "sorted-map",
+      "contents": "sorted-map",
+      "kind": "function",
+      "details": "<code>[& keyvals]<\/code>"
+    },
+    {
+      "trigger": "sorted-map-by",
+      "contents": "sorted-map-by",
+      "kind": "function",
+      "details": "<code>[comparator & keyvals]<\/code>"
+    },
+    {
+      "trigger": "sorted-set",
+      "contents": "sorted-set",
+      "kind": "function",
+      "details": "<code>[& keys]<\/code>"
+    },
+    {
+      "trigger": "sorted-set-by",
+      "contents": "sorted-set-by",
+      "kind": "function",
+      "details": "<code>[comparator & keys]<\/code>"
+    },
+    {
+      "trigger": "sorted?",
+      "contents": "sorted?",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "special-symbol?",
+      "contents": "special-symbol?",
+      "kind": "function",
+      "details": "<code>[s]<\/code>"
+    },
+    {
+      "trigger": "spit",
+      "contents": "spit",
+      "kind": "function",
+      "details": "<code>[f content & options]<\/code>"
+    },
+    {
+      "trigger": "split-at",
+      "contents": "split-at",
+      "kind": "function",
+      "details": "<code>[n coll]<\/code>"
+    },
+    {
+      "trigger": "split-with",
+      "contents": "split-with",
+      "kind": "function",
+      "details": "<code>[pred coll]<\/code>"
+    },
+    {
+      "trigger": "str",
+      "contents": "str",
+      "kind": "function",
+      "details": "<code>[] [x] [x & ys]<\/code>"
+    },
+    {
+      "trigger": "string?",
+      "contents": "string?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "struct",
+      "contents": "struct",
+      "kind": "function",
+      "details": "<code>[s & vals]<\/code>"
+    },
+    {
+      "trigger": "struct-map",
+      "contents": "struct-map",
+      "kind": "function",
+      "details": "<code>[s & inits]<\/code>"
+    },
+    {
+      "trigger": "subs",
+      "contents": "subs",
+      "kind": "function",
+      "details": "<code>[s start] [s start end]<\/code>"
+    },
+    {
+      "trigger": "subseq",
+      "contents": "subseq",
+      "kind": "function",
+      "details": "<code>[sc test key] [sc start-test start-key end-test end-key]<\/code>"
+    },
+    {
+      "trigger": "subvec",
+      "contents": "subvec",
+      "kind": "function",
+      "details": "<code>[v start] [v start end]<\/code>"
+    },
+    {
+      "trigger": "supers",
+      "contents": "supers",
+      "kind": "function",
+      "details": "<code>[class]<\/code>"
+    },
+    {
+      "trigger": "swap!",
+      "contents": "swap!",
+      "kind": "function",
+      "details": "<code>[atom f] [atom f x] [atom f x y] [atom f x y & args]<\/code>"
+    },
+    {
+      "trigger": "swap-vals!",
+      "contents": "swap-vals!",
+      "kind": "function",
+      "details": "<code>[atom f] [atom f x] [atom f x y] [atom f x y & args]<\/code>"
+    },
+    {
+      "trigger": "symbol",
+      "contents": "symbol",
+      "kind": "function",
+      "details": "<code>[name] [ns name]<\/code>"
+    },
+    {
+      "trigger": "symbol?",
+      "contents": "symbol?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "sync",
+      "contents": "sync",
+      "kind": "function",
+      "details": "<code>[flags-ignored-for-now & body]<\/code>"
+    },
+    {
+      "trigger": "tagged-literal",
+      "contents": "tagged-literal",
+      "kind": "function",
+      "details": "<code>[tag form]<\/code>"
+    },
+    {
+      "trigger": "tagged-literal?",
+      "contents": "tagged-literal?",
+      "kind": "function",
+      "details": "<code>[value]<\/code>"
+    },
+    {
+      "trigger": "take",
+      "contents": "take",
+      "kind": "function",
+      "details": "<code>[n] [n coll]<\/code>"
+    },
+    {
+      "trigger": "take-last",
+      "contents": "take-last",
+      "kind": "function",
+      "details": "<code>[n coll]<\/code>"
+    },
+    {
+      "trigger": "take-nth",
+      "contents": "take-nth",
+      "kind": "function",
+      "details": "<code>[n] [n coll]<\/code>"
+    },
+    {
+      "trigger": "take-while",
+      "contents": "take-while",
+      "kind": "function",
+      "details": "<code>[pred] [pred coll]<\/code>"
+    },
+    {
+      "trigger": "tap>",
+      "contents": "tap>",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "test",
+      "contents": "test",
+      "kind": "function",
+      "details": "<code>[v]<\/code>"
+    },
+    {
+      "trigger": "the-ns",
+      "contents": "the-ns",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "thread-bound?",
+      "contents": "thread-bound?",
+      "kind": "function",
+      "details": "<code>[& vars]<\/code>"
+    },
+    {
+      "trigger": "time",
+      "contents": "time",
+      "kind": "function",
+      "details": "<code>[expr]<\/code>"
+    },
+    {
+      "trigger": "to-array",
+      "contents": "to-array",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "to-array-2d",
+      "contents": "to-array-2d",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "trampoline",
+      "contents": "trampoline",
+      "kind": "function",
+      "details": "<code>[f] [f & args]<\/code>"
+    },
+    {
+      "trigger": "transduce",
+      "contents": "transduce",
+      "kind": "function",
+      "details": "<code>[xform f coll] [xform f init coll]<\/code>"
+    },
+    {
+      "trigger": "transient",
+      "contents": "transient",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "tree-seq",
+      "contents": "tree-seq",
+      "kind": "function",
+      "details": "<code>[branch? children root]<\/code>"
+    },
+    {
+      "trigger": "true?",
+      "contents": "true?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "type",
+      "contents": "type",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-add",
+      "contents": "unchecked-add",
+      "kind": "function",
+      "details": "<code>[x y]<\/code>"
+    },
+    {
+      "trigger": "unchecked-add-int",
+      "contents": "unchecked-add-int",
+      "kind": "function",
+      "details": "<code>[x y]<\/code>"
+    },
+    {
+      "trigger": "unchecked-byte",
+      "contents": "unchecked-byte",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-char",
+      "contents": "unchecked-char",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-dec",
+      "contents": "unchecked-dec",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-dec-int",
+      "contents": "unchecked-dec-int",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-divide-int",
+      "contents": "unchecked-divide-int",
+      "kind": "function",
+      "details": "<code>[x y]<\/code>"
+    },
+    {
+      "trigger": "unchecked-double",
+      "contents": "unchecked-double",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-float",
+      "contents": "unchecked-float",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-inc",
+      "contents": "unchecked-inc",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-inc-int",
+      "contents": "unchecked-inc-int",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-int",
+      "contents": "unchecked-int",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-long",
+      "contents": "unchecked-long",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-multiply",
+      "contents": "unchecked-multiply",
+      "kind": "function",
+      "details": "<code>[x y]<\/code>"
+    },
+    {
+      "trigger": "unchecked-multiply-int",
+      "contents": "unchecked-multiply-int",
+      "kind": "function",
+      "details": "<code>[x y]<\/code>"
+    },
+    {
+      "trigger": "unchecked-negate",
+      "contents": "unchecked-negate",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-negate-int",
+      "contents": "unchecked-negate-int",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-remainder-int",
+      "contents": "unchecked-remainder-int",
+      "kind": "function",
+      "details": "<code>[x y]<\/code>"
+    },
+    {
+      "trigger": "unchecked-short",
+      "contents": "unchecked-short",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unchecked-subtract",
+      "contents": "unchecked-subtract",
+      "kind": "function",
+      "details": "<code>[x y]<\/code>"
+    },
+    {
+      "trigger": "unchecked-subtract-int",
+      "contents": "unchecked-subtract-int",
+      "kind": "function",
+      "details": "<code>[x y]<\/code>"
+    },
+    {
+      "trigger": "underive",
+      "contents": "underive",
+      "kind": "function",
+      "details": "<code>[tag parent] [h tag parent]<\/code>"
+    },
+    {
+      "trigger": "unquote",
+      "contents": "unquote",
+      "kind": "variable"
+    },
+    {
+      "trigger": "unquote-splicing",
+      "contents": "unquote-splicing",
+      "kind": "variable"
+    },
+    {
+      "trigger": "unreduced",
+      "contents": "unreduced",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "unsigned-bit-shift-right",
+      "contents": "unsigned-bit-shift-right",
+      "kind": "function",
+      "details": "<code>[x n]<\/code>"
+    },
+    {
+      "trigger": "update",
+      "contents": "update",
+      "kind": "function",
+      "details": "<code>[m k f] [m k f x] [m k f x y] [m k f x y z] [m k f x y z & more]<\/code>"
+    },
+    {
+      "trigger": "update-in",
+      "contents": "update-in",
+      "kind": "function",
+      "details": "<code>[m ks f & args]<\/code>"
+    },
+    {
+      "trigger": "update-proxy",
+      "contents": "update-proxy",
+      "kind": "function",
+      "details": "<code>[proxy mappings]<\/code>"
+    },
+    {
+      "trigger": "uri?",
+      "contents": "uri?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "use",
+      "contents": "use",
+      "kind": "function",
+      "details": "<code>[& args]<\/code>"
+    },
+    {
+      "trigger": "uuid?",
+      "contents": "uuid?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "val",
+      "contents": "val",
+      "kind": "function",
+      "details": "<code>[e]<\/code>"
+    },
+    {
+      "trigger": "vals",
+      "contents": "vals",
+      "kind": "function",
+      "details": "<code>[map]<\/code>"
+    },
+    {
+      "trigger": "var-get",
+      "contents": "var-get",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "var-set",
+      "contents": "var-set",
+      "kind": "function",
+      "details": "<code>[x val]<\/code>"
+    },
+    {
+      "trigger": "var?",
+      "contents": "var?",
+      "kind": "function",
+      "details": "<code>[v]<\/code>"
+    },
+    {
+      "trigger": "vary-meta",
+      "contents": "vary-meta",
+      "kind": "function",
+      "details": "<code>[obj f & args]<\/code>"
+    },
+    {
+      "trigger": "vec",
+      "contents": "vec",
+      "kind": "function",
+      "details": "<code>[coll]<\/code>"
+    },
+    {
+      "trigger": "vector",
+      "contents": "vector",
+      "kind": "function",
+      "details": "<code>[] [a] [a b] [a b c] [a b c d] [a b c d e] [a b c d e f] [a b c d e f & args]<\/code>"
+    },
+    {
+      "trigger": "vector-of",
+      "contents": "vector-of",
+      "kind": "function",
+      "details": "<code>[t] [t & elements]<\/code>"
+    },
+    {
+      "trigger": "vector?",
+      "contents": "vector?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "volatile!",
+      "contents": "volatile!",
+      "kind": "function",
+      "details": "<code>[val]<\/code>"
+    },
+    {
+      "trigger": "volatile?",
+      "contents": "volatile?",
+      "kind": "function",
+      "details": "<code>[x]<\/code>"
+    },
+    {
+      "trigger": "vreset!",
+      "contents": "vreset!",
+      "kind": "function",
+      "details": "<code>[vol newval]<\/code>"
+    },
+    {
+      "trigger": "vswap!",
+      "contents": "vswap!",
+      "kind": "function",
+      "details": "<code>[vol f & args]<\/code>"
+    },
+    {
+      "trigger": "when",
+      "contents": "when",
+      "kind": "function",
+      "details": "<code>[test & body]<\/code>"
+    },
+    {
+      "trigger": "when-first",
+      "contents": "when-first",
+      "kind": "function",
+      "details": "<code>[bindings & body]<\/code>"
+    },
+    {
+      "trigger": "when-let",
+      "contents": "when-let",
+      "kind": "function",
+      "details": "<code>[bindings & body]<\/code>"
+    },
+    {
+      "trigger": "when-not",
+      "contents": "when-not",
+      "kind": "function",
+      "details": "<code>[test & body]<\/code>"
+    },
+    {
+      "trigger": "when-some",
+      "contents": "when-some",
+      "kind": "function",
+      "details": "<code>[bindings & body]<\/code>"
+    },
+    {
+      "trigger": "while",
+      "contents": "while",
+      "kind": "function",
+      "details": "<code>[test & body]<\/code>"
+    },
+    {
+      "trigger": "with-bindings",
+      "contents": "with-bindings",
+      "kind": "function",
+      "details": "<code>[binding-map & body]<\/code>"
+    },
+    {
+      "trigger": "with-bindings*",
+      "contents": "with-bindings*",
+      "kind": "function",
+      "details": "<code>[binding-map f & args]<\/code>"
+    },
+    {
+      "trigger": "with-in-str",
+      "contents": "with-in-str",
+      "kind": "function",
+      "details": "<code>[s & body]<\/code>"
+    },
+    {
+      "trigger": "with-loading-context",
+      "contents": "with-loading-context",
+      "kind": "function",
+      "details": "<code>[& body]<\/code>"
+    },
+    {
+      "trigger": "with-local-vars",
+      "contents": "with-local-vars",
+      "kind": "function",
+      "details": "<code>[name-vals-vec & body]<\/code>"
+    },
+    {
+      "trigger": "with-meta",
+      "contents": "with-meta",
+      "kind": "function",
+      "details": "<code>[obj m]<\/code>"
+    },
+    {
+      "trigger": "with-open",
+      "contents": "with-open",
+      "kind": "function",
+      "details": "<code>[bindings & body]<\/code>"
+    },
+    {
+      "trigger": "with-out-str",
+      "contents": "with-out-str",
+      "kind": "function",
+      "details": "<code>[& body]<\/code>"
+    },
+    {
+      "trigger": "with-precision",
+      "contents": "with-precision",
+      "kind": "function",
+      "details": "<code>[precision & exprs]<\/code>"
+    },
+    {
+      "trigger": "with-redefs",
+      "contents": "with-redefs",
+      "kind": "function",
+      "details": "<code>[bindings & body]<\/code>"
+    },
+    {
+      "trigger": "with-redefs-fn",
+      "contents": "with-redefs-fn",
+      "kind": "function",
+      "details": "<code>[binding-map func]<\/code>"
+    },
+    {
+      "trigger": "xml-seq",
+      "contents": "xml-seq",
+      "kind": "function",
+      "details": "<code>[root]<\/code>"
+    },
+    {
+      "trigger": "zero?",
+      "contents": "zero?",
+      "kind": "function",
+      "details": "<code>[num]<\/code>"
+    },
+    {
+      "trigger": "zipmap",
+      "contents": "zipmap",
+      "kind": "function",
+      "details": "<code>[keys vals]<\/code>"
+    }
+  ]
+}

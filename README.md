@@ -1,1 +1,1 @@
-# clojure-sublime-completions
+Sublime Text completions for `clojure.core`.
